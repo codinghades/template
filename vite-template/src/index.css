@@ -2,8 +2,8 @@
 
 #root{
     font-family: Montserrat;
-    scroll-behavior: smooth;
 }
+
 @layer utilities {
     .anime-in{
         animation-fill-mode: both;
